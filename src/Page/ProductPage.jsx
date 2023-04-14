@@ -55,7 +55,7 @@ export default function ProductPage() {
       <GoBackButton></GoBackButton>
       <div className="md:flex md:space-x-12 space-y-8">
         <div>
-          <img className="rounded-xl" src={`../${image}`}></img>
+          <img className="rounded-xl" src={`${image}`}></img>
         </div>
         <div className="  space-y-4 md:flex md:flex-col md:justify-between">
           {" "}
@@ -103,9 +103,9 @@ export default function ProductPage() {
           </div>
         </div>
         <Gallery
-          firstImage={`../../${firstGalleryImage}`}
-          secondImage={`../${secondGalleryImage}`}
-          thirdImage={`../${thirdGalleryImage}`}
+          firstImage={`${firstGalleryImage}`}
+          secondImage={`${secondGalleryImage}`}
+          thirdImage={`${thirdGalleryImage}`}
         ></Gallery>
       </div>
 

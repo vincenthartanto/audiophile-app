@@ -5,20 +5,20 @@ export const allData = [
     name: "YX1 Wireless Earphones",
     image: {
       mobile:
-        "../src/assets/Audiophile/product-yx1-earphones/mobile/image-product.jpg",
+        "/assets/Audiophile/product-yx1-earphones/mobile/image-product.jpg",
       tablet:
-        "../src/assets/Audiophile/product-yx1-earphones/tablet/image-product.jpg",
+        "/assets/Audiophile/product-yx1-earphones/tablet/image-product.jpg",
       desktop:
-        "../src/assets/Audiophile/product-yx1-earphones/desktop/image-product.jpg",
+        "/assets/Audiophile/product-yx1-earphones/desktop/image-product.jpg",
     },
     category: "earphones",
     categoryImage: {
       mobile:
-        "../src/assets/Audiophile/product-yx1-earphones/mobile/image-category-page-preview.jpg",
+        "/assets/Audiophile/product-yx1-earphones/mobile/image-category-page-preview.jpg",
       tablet:
-        "../src/assets/Audiophile/product-yx1-earphones/tablet/image-category-page-preview.jpg",
+        "/assets/Audiophile/product-yx1-earphones/tablet/image-category-page-preview.jpg",
       desktop:
-        "../src/assets/Audiophile/product-yx1-earphones/desktop/image-category-page-preview.jpg",
+        "/assets/Audiophile/product-yx1-earphones/desktop/image-category-page-preview.jpg",
     },
     new: true,
     price: 599,
@@ -51,27 +51,27 @@ export const allData = [
     gallery: {
       first: {
         mobile:
-          "../src/assets/Audiophile/product-yx1-earphones/mobile/image-gallery-1.jpg",
+          "/assets/Audiophile/product-yx1-earphones/mobile/image-gallery-1.jpg",
         tablet:
-          "../src/assets/Audiophile/product-yx1-earphones/tablet/image-gallery-1.jpg",
+          "/assets/Audiophile/product-yx1-earphones/tablet/image-gallery-1.jpg",
         desktop:
-          "../src/assets/Audiophile/product-yx1-earphones/desktop/image-gallery-1.jpg",
+          "/assets/Audiophile/product-yx1-earphones/desktop/image-gallery-1.jpg",
       },
       second: {
         mobile:
-          "../src/assets/Audiophile/product-yx1-earphones/mobile/image-gallery-2.jpg",
+          "/assets/Audiophile/product-yx1-earphones/mobile/image-gallery-2.jpg",
         tablet:
-          "../src/assets/Audiophile/product-yx1-earphones/tablet/image-gallery-2.jpg",
+          "/assets/Audiophile/product-yx1-earphones/tablet/image-gallery-2.jpg",
         desktop:
-          "../src/assets/Audiophile/product-yx1-earphones/desktop/image-gallery-2.jpg",
+          "/assets/Audiophile/product-yx1-earphones/desktop/image-gallery-2.jpg",
       },
       third: {
         mobile:
-          "../src/assets/Audiophile/product-yx1-earphones/mobile/image-gallery-3.jpg",
+          "/assets/Audiophile/product-yx1-earphones/mobile/image-gallery-3.jpg",
         tablet:
-          "../src/assets/Audiophile/product-yx1-earphones/tablet/image-gallery-3.jpg",
+          "/assets/Audiophile/product-yx1-earphones/tablet/image-gallery-3.jpg",
         desktop:
-          "../src/assets/Audiophile/product-yx1-earphones/desktop/image-gallery-3.jpg",
+          "/assets/Audiophile/product-yx1-earphones/desktop/image-gallery-3.jpg",
       },
     },
     others: [
@@ -80,35 +80,30 @@ export const allData = [
         name: "XX99 Mark I",
         image: {
           mobile:
-            "../src/assets/Audiophile/shared/mobile/image-xx99-mark-one-headphones.jpg",
+            "/assets/Audiophile/shared/mobile/image-xx99-mark-one-headphones.jpg",
           tablet:
-            "../src/assets/Audiophile/shared/tablet/image-xx99-mark-one-headphones.jpg",
+            "/assets/Audiophile/shared/tablet/image-xx99-mark-one-headphones.jpg",
           desktop:
-            "../src/assets/Audiophile/shared/desktop/image-xx99-mark-one-headphones.jpg",
+            "/assets/Audiophile/shared/desktop/image-xx99-mark-one-headphones.jpg",
         },
       },
       {
         slug: "xx59-headphones",
         name: "XX59",
         image: {
-          mobile:
-            "../src/assets/Audiophile/shared/mobile/image-xx59-headphones.jpg",
-          tablet:
-            "../src/assets/Audiophile/shared/tablet/image-xx59-headphones.jpg",
+          mobile: "/assets/Audiophile/shared/mobile/image-xx59-headphones.jpg",
+          tablet: "/assets/Audiophile/shared/tablet/image-xx59-headphones.jpg",
           desktop:
-            "../src/assets/Audiophile/shared/desktop/image-xx59-headphones.jpg",
+            "/assets/Audiophile/shared/desktop/image-xx59-headphones.jpg",
         },
       },
       {
         slug: "zx9-speaker",
         name: "ZX9 Speaker",
         image: {
-          mobile:
-            "../src/assets/Audiophile/shared/mobile/image-zx9-speaker.jpg",
-          tablet:
-            "../src/assets/Audiophile/shared/tablet/image-zx9-speaker.jpg",
-          desktop:
-            "../src/assets/Audiophile/shared/desktop/image-zx9-speaker.jpg",
+          mobile: "/assets/Audiophile/shared/mobile/image-zx9-speaker.jpg",
+          tablet: "/assets/Audiophile/shared/tablet/image-zx9-speaker.jpg",
+          desktop: "/assets/Audiophile/shared/desktop/image-zx9-speaker.jpg",
         },
       },
     ],
@@ -119,20 +114,20 @@ export const allData = [
     name: "XX59 Headphones",
     image: {
       mobile:
-        "../src/assets/Audiophile/product-xx59-headphones/mobile/image-product.jpg",
+        "/assets/Audiophile/product-xx59-headphones/mobile/image-product.jpg",
       tablet:
-        "../src/assets/Audiophile/product-xx59-headphones/tablet/image-product.jpg",
+        "/assets/Audiophile/product-xx59-headphones/tablet/image-product.jpg",
       desktop:
-        "../src/assets/Audiophile/product-xx59-headphones/desktop/image-product.jpg",
+        "/assets/Audiophile/product-xx59-headphones/desktop/image-product.jpg",
     },
     category: "headphones",
     categoryImage: {
       mobile:
-        "../src/assets/Audiophile/product-xx59-headphones/mobile/image-category-page-preview.jpg",
+        "/assets/Audiophile/product-xx59-headphones/mobile/image-category-page-preview.jpg",
       tablet:
-        "../src/assets/Audiophile/product-xx59-headphones/tablet/image-category-page-preview.jpg",
+        "/assets/Audiophile/product-xx59-headphones/tablet/image-category-page-preview.jpg",
       desktop:
-        "../src/assets/Audiophile/product-xx59-headphones/desktop/image-category-page-preview.jpg",
+        "/assets/Audiophile/product-xx59-headphones/desktop/image-category-page-preview.jpg",
     },
     new: false,
     price: 899,
@@ -161,27 +156,27 @@ export const allData = [
     gallery: {
       first: {
         mobile:
-          "../src/assets/Audiophile/product-xx59-headphones/mobile/image-gallery-1.jpg",
+          "/assets/Audiophile/product-xx59-headphones/mobile/image-gallery-1.jpg",
         tablet:
-          "../src/assets/Audiophile/product-xx59-headphones/tablet/image-gallery-1.jpg",
+          "/assets/Audiophile/product-xx59-headphones/tablet/image-gallery-1.jpg",
         desktop:
-          "../src/assets/Audiophile/product-xx59-headphones/desktop/image-gallery-1.jpg",
+          "/assets/Audiophile/product-xx59-headphones/desktop/image-gallery-1.jpg",
       },
       second: {
         mobile:
-          "../src/assets/Audiophile/product-xx59-headphones/mobile/image-gallery-2.jpg",
+          "/assets/Audiophile/product-xx59-headphones/mobile/image-gallery-2.jpg",
         tablet:
-          "../src/assets/Audiophile/product-xx59-headphones/tablet/image-gallery-2.jpg",
+          "/assets/Audiophile/product-xx59-headphones/tablet/image-gallery-2.jpg",
         desktop:
-          "../src/assets/Audiophile/product-xx59-headphones/desktop/image-gallery-2.jpg",
+          "/assets/Audiophile/product-xx59-headphones/desktop/image-gallery-2.jpg",
       },
       third: {
         mobile:
-          "../src/assets/Audiophile/product-xx59-headphones/mobile/image-gallery-3.jpg",
+          "/assets/Audiophile/product-xx59-headphones/mobile/image-gallery-3.jpg",
         tablet:
-          "../src/assets/Audiophile/product-xx59-headphones/tablet/image-gallery-3.jpg",
+          "/assets/Audiophile/product-xx59-headphones/tablet/image-gallery-3.jpg",
         desktop:
-          "../src/assets/Audiophile/product-xx59-headphones/desktop/image-gallery-3.jpg",
+          "/assets/Audiophile/product-xx59-headphones/desktop/image-gallery-3.jpg",
       },
     },
     others: [
@@ -190,11 +185,11 @@ export const allData = [
         name: "XX99 Mark II",
         image: {
           mobile:
-            "../src/assets/Audiophile/shared/mobile/image-xx99-mark-two-headphones.jpg",
+            "/assets/Audiophile/shared/mobile/image-xx99-mark-two-headphones.jpg",
           tablet:
-            "../src/assets/Audiophile/shared/tablet/image-xx99-mark-two-headphones.jpg",
+            "/assets/Audiophile/shared/tablet/image-xx99-mark-two-headphones.jpg",
           desktop:
-            "../src/assets/Audiophile/shared/desktop/image-xx99-mark-two-headphones.jpg",
+            "/assets/Audiophile/shared/desktop/image-xx99-mark-two-headphones.jpg",
         },
       },
       {
@@ -202,23 +197,20 @@ export const allData = [
         name: "XX99 Mark I",
         image: {
           mobile:
-            "../src/assets/Audiophile/shared/mobile/image-xx99-mark-one-headphones.jpg",
+            "/assets/Audiophile/shared/mobile/image-xx99-mark-one-headphones.jpg",
           tablet:
-            "../src/assets/Audiophile/shared/tablet/image-xx99-mark-one-headphones.jpg",
+            "/assets/Audiophile/shared/tablet/image-xx99-mark-one-headphones.jpg",
           desktop:
-            "../src/assets/Audiophile/shared/desktop/image-xx99-mark-one-headphones.jpg",
+            "/assets/Audiophile/shared/desktop/image-xx99-mark-one-headphones.jpg",
         },
       },
       {
         slug: "zx9-speaker",
         name: "ZX9 Speaker",
         image: {
-          mobile:
-            "../src/assets/Audiophile/shared/mobile/image-zx9-speaker.jpg",
-          tablet:
-            "../src/assets/Audiophile/shared/tablet/image-zx9-speaker.jpg",
-          desktop:
-            "../src/assets/Audiophile/shared/desktop/image-zx9-speaker.jpg",
+          mobile: "/assets/Audiophile/shared/mobile/image-zx9-speaker.jpg",
+          tablet: "/assets/Audiophile/shared/tablet/image-zx9-speaker.jpg",
+          desktop: "/assets/Audiophile/shared/desktop/image-zx9-speaker.jpg",
         },
       },
     ],
@@ -229,20 +221,20 @@ export const allData = [
     name: "XX99 Mark I Headphones",
     image: {
       mobile:
-        "../src/assets/Audiophile/product-xx99-mark-one-headphones/mobile/image-product.jpg",
+        "/assets/Audiophile/product-xx99-mark-one-headphones/mobile/image-product.jpg",
       tablet:
-        "../src/assets/Audiophile/product-xx99-mark-one-headphones/tablet/image-product.jpg",
+        "/assets/Audiophile/product-xx99-mark-one-headphones/tablet/image-product.jpg",
       desktop:
-        "../src/assets/Audiophile/product-xx99-mark-one-headphones/desktop/image-product.jpg",
+        "/assets/Audiophile/product-xx99-mark-one-headphones/desktop/image-product.jpg",
     },
     category: "headphones",
     categoryImage: {
       mobile:
-        "../src/assets/Audiophile/product-xx99-mark-one-headphones/mobile/image-category-page-preview.jpg",
+        "/assets/Audiophile/product-xx99-mark-one-headphones/mobile/image-category-page-preview.jpg",
       tablet:
-        "../src/assets/Audiophile/product-xx99-mark-one-headphones/tablet/image-category-page-preview.jpg",
+        "/assets/Audiophile/product-xx99-mark-one-headphones/tablet/image-category-page-preview.jpg",
       desktop:
-        "../src/assets/Audiophile/product-xx99-mark-one-headphones/desktop/image-category-page-preview.jpg",
+        "/assets/Audiophile/product-xx99-mark-one-headphones/desktop/image-category-page-preview.jpg",
     },
     new: false,
     price: 1750,
@@ -271,27 +263,27 @@ export const allData = [
     gallery: {
       first: {
         mobile:
-          "../src/assets/Audiophile/product-xx99-mark-one-headphones/mobile/image-gallery-1.jpg",
+          "/assets/Audiophile/product-xx99-mark-one-headphones/mobile/image-gallery-1.jpg",
         tablet:
-          "../src/assets/Audiophile/product-xx99-mark-one-headphones/tablet/image-gallery-1.jpg",
+          "/assets/Audiophile/product-xx99-mark-one-headphones/tablet/image-gallery-1.jpg",
         desktop:
-          "../src/assets/Audiophile/product-xx99-mark-one-headphones/desktop/image-gallery-1.jpg",
+          "/assets/Audiophile/product-xx99-mark-one-headphones/desktop/image-gallery-1.jpg",
       },
       second: {
         mobile:
-          "../src/assets/Audiophile/product-xx99-mark-one-headphones/mobile/image-gallery-2.jpg",
+          "/assets/Audiophile/product-xx99-mark-one-headphones/mobile/image-gallery-2.jpg",
         tablet:
-          "../src/assets/Audiophile/product-xx99-mark-one-headphones/tablet/image-gallery-2.jpg",
+          "/assets/Audiophile/product-xx99-mark-one-headphones/tablet/image-gallery-2.jpg",
         desktop:
-          "../src/assets/Audiophile/product-xx99-mark-one-headphones/desktop/image-gallery-2.jpg",
+          "/assets/Audiophile/product-xx99-mark-one-headphones/desktop/image-gallery-2.jpg",
       },
       third: {
         mobile:
-          "../src/assets/Audiophile/product-xx99-mark-one-headphones/mobile/image-gallery-3.jpg",
+          "/assets/Audiophile/product-xx99-mark-one-headphones/mobile/image-gallery-3.jpg",
         tablet:
-          "../src/assets/Audiophile/product-xx99-mark-one-headphones/tablet/image-gallery-3.jpg",
+          "/assets/Audiophile/product-xx99-mark-one-headphones/tablet/image-gallery-3.jpg",
         desktop:
-          "../src/assets/Audiophile/product-xx99-mark-one-headphones/desktop/image-gallery-3.jpg",
+          "/assets/Audiophile/product-xx99-mark-one-headphones/desktop/image-gallery-3.jpg",
       },
     },
     others: [
@@ -300,35 +292,30 @@ export const allData = [
         name: "XX99 Mark II",
         image: {
           mobile:
-            "../src/assets/Audiophile/shared/mobile/image-xx99-mark-two-headphones.jpg",
+            "/assets/Audiophile/shared/mobile/image-xx99-mark-two-headphones.jpg",
           tablet:
-            "../src/assets/Audiophile/shared/tablet/image-xx99-mark-two-headphones.jpg",
+            "/assets/Audiophile/shared/tablet/image-xx99-mark-two-headphones.jpg",
           desktop:
-            "../src/assets/Audiophile/shared/desktop/image-xx99-mark-two-headphones.jpg",
+            "/assets/Audiophile/shared/desktop/image-xx99-mark-two-headphones.jpg",
         },
       },
       {
         slug: "xx59-headphones",
         name: "XX59",
         image: {
-          mobile:
-            "../src/assets/Audiophile/shared/mobile/image-xx59-headphones.jpg",
-          tablet:
-            "../src/assets/Audiophile/shared/tablet/image-xx59-headphones.jpg",
+          mobile: "/assets/Audiophile/shared/mobile/image-xx59-headphones.jpg",
+          tablet: "/assets/Audiophile/shared/tablet/image-xx59-headphones.jpg",
           desktop:
-            "../src/assets/Audiophile/shared/desktop/image-xx59-headphones.jpg",
+            "/assets/Audiophile/shared/desktop/image-xx59-headphones.jpg",
         },
       },
       {
         slug: "zx9-speaker",
         name: "ZX9 Speaker",
         image: {
-          mobile:
-            "../src/assets/Audiophile/shared/mobile/image-zx9-speaker.jpg",
-          tablet:
-            "../src/assets/Audiophile/shared/tablet/image-zx9-speaker.jpg",
-          desktop:
-            "../src/assets/Audiophile/shared/desktop/image-zx9-speaker.jpg",
+          mobile: "/assets/Audiophile/shared/mobile/image-zx9-speaker.jpg",
+          tablet: "/assets/Audiophile/shared/tablet/image-zx9-speaker.jpg",
+          desktop: "/assets/Audiophile/shared/desktop/image-zx9-speaker.jpg",
         },
       },
     ],
@@ -339,20 +326,20 @@ export const allData = [
     name: "XX99 Mark II Headphones",
     image: {
       mobile:
-        "../src/assets/Audiophile/product-xx99-mark-two-headphones/mobile/image-product.jpg",
+        "/assets/Audiophile/product-xx99-mark-two-headphones/mobile/image-product.jpg",
       tablet:
-        "../src/assets/Audiophile/product-xx99-mark-two-headphones/tablet/image-product.jpg",
+        "/assets/Audiophile/product-xx99-mark-two-headphones/tablet/image-product.jpg",
       desktop:
-        "../src/assets/Audiophile/product-xx99-mark-two-headphones/desktop/image-product.jpg",
+        "/assets/Audiophile/product-xx99-mark-two-headphones/desktop/image-product.jpg",
     },
     category: "headphones",
     categoryImage: {
       mobile:
-        "../src/assets/Audiophile/product-xx99-mark-two-headphones/mobile/image-category-page-preview.jpg",
+        "/assets/Audiophile/product-xx99-mark-two-headphones/mobile/image-category-page-preview.jpg",
       tablet:
-        "../src/assets/Audiophile/product-xx99-mark-two-headphones/tablet/image-category-page-preview.jpg",
+        "/assets/Audiophile/product-xx99-mark-two-headphones/tablet/image-category-page-preview.jpg",
       desktop:
-        "../src/assets/Audiophile/product-xx99-mark-two-headphones/desktop/image-category-page-preview.jpg",
+        "/assets/Audiophile/product-xx99-mark-two-headphones/desktop/image-category-page-preview.jpg",
     },
     new: true,
     price: 2999,
@@ -385,27 +372,27 @@ export const allData = [
     gallery: {
       first: {
         mobile:
-          "../src/assets/Audiophile/product-xx99-mark-two-headphones/mobile/image-gallery-1.jpg",
+          "/assets/Audiophile/product-xx99-mark-two-headphones/mobile/image-gallery-1.jpg",
         tablet:
-          "../src/assets/Audiophile/product-xx99-mark-two-headphones/tablet/image-gallery-1.jpg",
+          "/assets/Audiophile/product-xx99-mark-two-headphones/tablet/image-gallery-1.jpg",
         desktop:
-          "../src/assets/Audiophile/product-xx99-mark-two-headphones/desktop/image-gallery-1.jpg",
+          "/assets/Audiophile/product-xx99-mark-two-headphones/desktop/image-gallery-1.jpg",
       },
       second: {
         mobile:
-          "../src/assets/Audiophile/product-xx99-mark-two-headphones/mobile/image-gallery-2.jpg",
+          "/assets/Audiophile/product-xx99-mark-two-headphones/mobile/image-gallery-2.jpg",
         tablet:
-          "../src/assets/Audiophile/product-xx99-mark-two-headphones/tablet/image-gallery-2.jpg",
+          "/assets/Audiophile/product-xx99-mark-two-headphones/tablet/image-gallery-2.jpg",
         desktop:
-          "../src/assets/Audiophile/product-xx99-mark-two-headphones/desktop/image-gallery-2.jpg",
+          "/assets/Audiophile/product-xx99-mark-two-headphones/desktop/image-gallery-2.jpg",
       },
       third: {
         mobile:
-          "../src/assets/Audiophile/product-xx99-mark-two-headphones/mobile/image-gallery-3.jpg",
+          "/assets/Audiophile/product-xx99-mark-two-headphones/mobile/image-gallery-3.jpg",
         tablet:
-          "../src/assets/Audiophile/product-xx99-mark-two-headphones/tablet/image-gallery-3.jpg",
+          "/assets/Audiophile/product-xx99-mark-two-headphones/tablet/image-gallery-3.jpg",
         desktop:
-          "../src/assets/Audiophile/product-xx99-mark-two-headphones/desktop/image-gallery-3.jpg",
+          "/assets/Audiophile/product-xx99-mark-two-headphones/desktop/image-gallery-3.jpg",
       },
     },
     others: [
@@ -414,35 +401,30 @@ export const allData = [
         name: "XX99 Mark I",
         image: {
           mobile:
-            "../src/assets/Audiophile/shared/mobile/image-xx99-mark-one-headphones.jpg",
+            "/assets/Audiophile/shared/mobile/image-xx99-mark-one-headphones.jpg",
           tablet:
-            "../src/assets/Audiophile/shared/tablet/image-xx99-mark-one-headphones.jpg",
+            "/assets/Audiophile/shared/tablet/image-xx99-mark-one-headphones.jpg",
           desktop:
-            "../src/assets/Audiophile/shared/desktop/image-xx99-mark-one-headphones.jpg",
+            "/assets/Audiophile/shared/desktop/image-xx99-mark-one-headphones.jpg",
         },
       },
       {
         slug: "xx59-headphones",
         name: "XX59",
         image: {
-          mobile:
-            "../src/assets/Audiophile/shared/mobile/image-xx59-headphones.jpg",
-          tablet:
-            "../src/assets/Audiophile/shared/tablet/image-xx59-headphones.jpg",
+          mobile: "/assets/Audiophile/shared/mobile/image-xx59-headphones.jpg",
+          tablet: "/assets/Audiophile/shared/tablet/image-xx59-headphones.jpg",
           desktop:
-            "../src/assets/Audiophile/shared/desktop/image-xx59-headphones.jpg",
+            "/assets/Audiophile/shared/desktop/image-xx59-headphones.jpg",
         },
       },
       {
         slug: "zx9-speaker",
         name: "ZX9 Speaker",
         image: {
-          mobile:
-            "../src/assets/Audiophile/shared/mobile/image-zx9-speaker.jpg",
-          tablet:
-            "../src/assets/Audiophile/shared/tablet/image-zx9-speaker.jpg",
-          desktop:
-            "../src/assets/Audiophile/shared/desktop/image-zx9-speaker.jpg",
+          mobile: "/assets/Audiophile/shared/mobile/image-zx9-speaker.jpg",
+          tablet: "/assets/Audiophile/shared/tablet/image-zx9-speaker.jpg",
+          desktop: "/assets/Audiophile/shared/desktop/image-zx9-speaker.jpg",
         },
       },
     ],
@@ -452,21 +434,19 @@ export const allData = [
     slug: "zx7-speaker",
     name: "ZX7 Speaker",
     image: {
-      mobile:
-        "../src/assets/Audiophile/product-zx7-speaker/mobile/image-product.jpg",
-      tablet:
-        "../src/assets/Audiophile/product-zx7-speaker/tablet/image-product.jpg",
+      mobile: "/assets/Audiophile/product-zx7-speaker/mobile/image-product.jpg",
+      tablet: "/assets/Audiophile/product-zx7-speaker/tablet/image-product.jpg",
       desktop:
-        "../src/assets/Audiophile/product-zx7-speaker/desktop/image-product.jpg",
+        "/assets/Audiophile/product-zx7-speaker/desktop/image-product.jpg",
     },
     category: "speakers",
     categoryImage: {
       mobile:
-        "../src/assets/Audiophile/product-zx7-speaker/mobile/image-category-page-preview.jpg",
+        "/assets/Audiophile/product-zx7-speaker/mobile/image-category-page-preview.jpg",
       tablet:
-        "../src/assets/Audiophile/product-zx7-speaker/tablet/image-category-page-preview.jpg",
+        "/assets/Audiophile/product-zx7-speaker/tablet/image-category-page-preview.jpg",
       desktop:
-        "../src/assets/Audiophile/product-zx7-speaker/desktop/image-category-page-preview.jpg",
+        "/assets/Audiophile/product-zx7-speaker/desktop/image-category-page-preview.jpg",
     },
     new: false,
     price: 3500,
@@ -499,27 +479,27 @@ export const allData = [
     gallery: {
       first: {
         mobile:
-          "../src/assets/Audiophile/product-zx7-speaker/mobile/image-gallery-1.jpg",
+          "/assets/Audiophile/product-zx7-speaker/mobile/image-gallery-1.jpg",
         tablet:
-          "../src/assets/Audiophile/product-zx7-speaker/tablet/image-gallery-1.jpg",
+          "/assets/Audiophile/product-zx7-speaker/tablet/image-gallery-1.jpg",
         desktop:
-          "../src/assets/Audiophile/product-zx7-speaker/desktop/image-gallery-1.jpg",
+          "/assets/Audiophile/product-zx7-speaker/desktop/image-gallery-1.jpg",
       },
       second: {
         mobile:
-          "../src/assets/Audiophile/product-zx7-speaker/mobile/image-gallery-2.jpg",
+          "/assets/Audiophile/product-zx7-speaker/mobile/image-gallery-2.jpg",
         tablet:
-          "../src/assets/Audiophile/product-zx7-speaker/tablet/image-gallery-2.jpg",
+          "/assets/Audiophile/product-zx7-speaker/tablet/image-gallery-2.jpg",
         desktop:
-          "../src/assets/Audiophile/product-zx7-speaker/desktop/image-gallery-2.jpg",
+          "/assets/Audiophile/product-zx7-speaker/desktop/image-gallery-2.jpg",
       },
       third: {
         mobile:
-          "../src/assets/Audiophile/product-zx7-speaker/mobile/image-gallery-3.jpg",
+          "/assets/Audiophile/product-zx7-speaker/mobile/image-gallery-3.jpg",
         tablet:
-          "../src/assets/Audiophile/product-zx7-speaker/tablet/image-gallery-3.jpg",
+          "/assets/Audiophile/product-zx7-speaker/tablet/image-gallery-3.jpg",
         desktop:
-          "../src/assets/Audiophile/product-zx7-speaker/desktop/image-gallery-3.jpg",
+          "/assets/Audiophile/product-zx7-speaker/desktop/image-gallery-3.jpg",
       },
     },
     others: [
@@ -527,12 +507,9 @@ export const allData = [
         slug: "zx9-speaker",
         name: "ZX9 Speaker",
         image: {
-          mobile:
-            "../src/assets/Audiophile/shared/mobile/image-zx9-speaker.jpg",
-          tablet:
-            "../src/assets/Audiophile/shared/tablet/image-zx9-speaker.jpg",
-          desktop:
-            "../src/assets/Audiophile/shared/desktop/image-zx9-speaker.jpg",
+          mobile: "/assets/Audiophile/shared/mobile/image-zx9-speaker.jpg",
+          tablet: "/assets/Audiophile/shared/tablet/image-zx9-speaker.jpg",
+          desktop: "/assets/Audiophile/shared/desktop/image-zx9-speaker.jpg",
         },
       },
       {
@@ -540,23 +517,21 @@ export const allData = [
         name: "XX99 Mark I",
         image: {
           mobile:
-            "../src/assets/Audiophile/shared/mobile/image-xx99-mark-one-headphones.jpg",
+            "/assets/Audiophile/shared/mobile/image-xx99-mark-one-headphones.jpg",
           tablet:
-            "../src/assets/Audiophile/shared/tablet/image-xx99-mark-one-headphones.jpg",
+            "/assets/Audiophile/shared/tablet/image-xx99-mark-one-headphones.jpg",
           desktop:
-            "../src/assets/Audiophile/shared/desktop/image-xx99-mark-one-headphones.jpg",
+            "/assets/Audiophile/shared/desktop/image-xx99-mark-one-headphones.jpg",
         },
       },
       {
         slug: "xx59-headphones",
         name: "XX59",
         image: {
-          mobile:
-            "../src/assets/Audiophile/shared/mobile/image-xx59-headphones.jpg",
-          tablet:
-            "../src/assets/Audiophile/shared/tablet/image-xx59-headphones.jpg",
+          mobile: "/assets/Audiophile/shared/mobile/image-xx59-headphones.jpg",
+          tablet: "/assets/Audiophile/shared/tablet/image-xx59-headphones.jpg",
           desktop:
-            "../src/assets/Audiophile/shared/desktop/image-xx59-headphones.jpg",
+            "/assets/Audiophile/shared/desktop/image-xx59-headphones.jpg",
         },
       },
     ],
@@ -566,21 +541,19 @@ export const allData = [
     slug: "zx9-speaker",
     name: "ZX9 Speaker",
     image: {
-      mobile:
-        "../src/assets/Audiophile/product-zx9-speaker/mobile/image-product.jpg",
-      tablet:
-        "../src/assets/Audiophile/product-zx9-speaker/tablet/image-product.jpg",
+      mobile: "/assets/Audiophile/product-zx9-speaker/mobile/image-product.jpg",
+      tablet: "/assets/Audiophile/product-zx9-speaker/tablet/image-product.jpg",
       desktop:
-        "../src/assets/Audiophile/product-zx9-speaker/desktop/image-product.jpg",
+        "/assets/Audiophile/product-zx9-speaker/desktop/image-product.jpg",
     },
     category: "speakers",
     categoryImage: {
       mobile:
-        "../src/assets/Audiophile/product-zx9-speaker/mobile/image-category-page-preview.jpg",
+        "/assets/Audiophile/product-zx9-speaker/mobile/image-category-page-preview.jpg",
       tablet:
-        "../src/assets/Audiophile/product-zx9-speaker/tablet/image-category-page-preview.jpg",
+        "/assets/Audiophile/product-zx9-speaker/tablet/image-category-page-preview.jpg",
       desktop:
-        "../src/assets/Audiophile/product-zx9-speaker/desktop/image-category-page-preview.jpg",
+        "/assets/Audiophile/product-zx9-speaker/desktop/image-category-page-preview.jpg",
     },
     new: true,
     price: 4500,
@@ -613,27 +586,27 @@ export const allData = [
     gallery: {
       first: {
         mobile:
-          "../src/assets/Audiophile/product-zx9-speaker/mobile/image-gallery-1.jpg",
+          "/assets/Audiophile/product-zx9-speaker/mobile/image-gallery-1.jpg",
         tablet:
-          "../src/assets/Audiophile/product-zx9-speaker/tablet/image-gallery-1.jpg",
+          "/assets/Audiophile/product-zx9-speaker/tablet/image-gallery-1.jpg",
         desktop:
-          "../src/assets/Audiophile/product-zx9-speaker/desktop/image-gallery-1.jpg",
+          "/assets/Audiophile/product-zx9-speaker/desktop/image-gallery-1.jpg",
       },
       second: {
         mobile:
-          "../src/assets/Audiophile/product-zx9-speaker/mobile/image-gallery-2.jpg",
+          "/assets/Audiophile/product-zx9-speaker/mobile/image-gallery-2.jpg",
         tablet:
-          "../src/assets/Audiophile/product-zx9-speaker/tablet/image-gallery-2.jpg",
+          "/assets/Audiophile/product-zx9-speaker/tablet/image-gallery-2.jpg",
         desktop:
-          "../src/assets/Audiophile/product-zx9-speaker/desktop/image-gallery-2.jpg",
+          "/assets/Audiophile/product-zx9-speaker/desktop/image-gallery-2.jpg",
       },
       third: {
         mobile:
-          "../src/assets/Audiophile/product-zx9-speaker/mobile/image-gallery-3.jpg",
+          "/assets/Audiophile/product-zx9-speaker/mobile/image-gallery-3.jpg",
         tablet:
-          "../src/assets/Audiophile/product-zx9-speaker/tablet/image-gallery-3.jpg",
+          "/assets/Audiophile/product-zx9-speaker/tablet/image-gallery-3.jpg",
         desktop:
-          "../src/assets/Audiophile/product-zx9-speaker/desktop/image-gallery-3.jpg",
+          "/assets/Audiophile/product-zx9-speaker/desktop/image-gallery-3.jpg",
       },
     },
     others: [
@@ -641,12 +614,9 @@ export const allData = [
         slug: "zx7-speaker",
         name: "ZX7 Speaker",
         image: {
-          mobile:
-            "../src/assets/Audiophile/shared/mobile/image-zx7-speaker.jpg",
-          tablet:
-            "../src/assets/Audiophile/shared/tablet/image-zx7-speaker.jpg",
-          desktop:
-            "../src/assets/Audiophile/shared/desktop/image-zx7-speaker.jpg",
+          mobile: "/assets/Audiophile/shared/mobile/image-zx7-speaker.jpg",
+          tablet: "/assets/Audiophile/shared/tablet/image-zx7-speaker.jpg",
+          desktop: "/assets/Audiophile/shared/desktop/image-zx7-speaker.jpg",
         },
       },
       {
@@ -654,23 +624,21 @@ export const allData = [
         name: "XX99 Mark I",
         image: {
           mobile:
-            "../src/assets/Audiophile/shared/mobile/image-xx99-mark-one-headphones.jpg",
+            "/assets/Audiophile/shared/mobile/image-xx99-mark-one-headphones.jpg",
           tablet:
-            "../src/assets/Audiophile/shared/tablet/image-xx99-mark-one-headphones.jpg",
+            "/assets/Audiophile/shared/tablet/image-xx99-mark-one-headphones.jpg",
           desktop:
-            "../src/assets/Audiophile/shared/desktop/image-xx99-mark-one-headphones.jpg",
+            "/assets/Audiophile/shared/desktop/image-xx99-mark-one-headphones.jpg",
         },
       },
       {
         slug: "xx59-headphones",
         name: "XX59",
         image: {
-          mobile:
-            "../src/assets/Audiophile/shared/mobile/image-xx59-headphones.jpg",
-          tablet:
-            "../src/assets/Audiophile/shared/tablet/image-xx59-headphones.jpg",
+          mobile: "/assets/Audiophile/shared/mobile/image-xx59-headphones.jpg",
+          tablet: "/assets/Audiophile/shared/tablet/image-xx59-headphones.jpg",
           desktop:
-            "../src/assets/Audiophile/shared/desktop/image-xx59-headphones.jpg",
+            "/assets/Audiophile/shared/desktop/image-xx59-headphones.jpg",
         },
       },
     ],

@@ -17,7 +17,7 @@ export default function ProductCard({
   return (
     <div>
       <div className="flex flex-col items-center space-y-8 p-8">
-        <img className="bg-greyColor rounded-xl" src={`../${src}`}></img>
+        <img className="bg-greyColor rounded-xl" src={`${src}`}></img>
         {newProduct && (
           <h3 className="text-orangeColor tracking-widest font-extralight">
             NEW PRODUCT
